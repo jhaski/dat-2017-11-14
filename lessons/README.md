@@ -16,7 +16,7 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 1 | [What is Data Science](https://docs.google.com/presentation/d/1wTsQdfqoekxvtRveq8gKXzko-XGNP-ZTlltEfzDhoxI/edit?usp=sharing) || Lesson 11 | *Flex Session (suggestion: [Random Forests / Decision Trees](#)) |
+| Lesson 1 | [What is Data Science](https://docs.google.com/presentation/d/1wTsQdfqoekxvtRveq8gKXzko-XGNP-ZTlltEfzDhoxI/edit?usp=sharing) || Lesson 11 | [Random Forests / Decision Trees](#) |
 | Lesson 2 | [Research Design & Pandas](https://docs.google.com/presentation/d/1yTKZRhbwhWCSCoyA1hiSwGx3qp00zOFIW4xRISACDfs/edit?usp=sharing) || Lesson 12 | [Classification Review](#)|
 | Lesson 3| [Statistics Fundamentals pt. 1](#) || Lesson 13 | [K-Means Clustering](#) |
 | Lesson 4 | [Statistics Fundamentals pt. 2](#) || Lesson 14 | [Recommendations](#) |
